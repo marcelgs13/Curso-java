@@ -1,6 +1,5 @@
 # ☕ Curso Java COMPLETO 2024: POO + Projetos
 
-![Banner do Curso de Java](https://i.imgur.com/gDUstUv.png)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Andamento-yellow" alt="Status do Curso: Em Andamento">
